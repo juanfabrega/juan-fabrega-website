@@ -1,0 +1,29 @@
+body {
+    margin-bottom: auto;
+    margin-right: 400px;
+    margin-left:200px ;
+    margin-top:8px ;
+    font-family :BlinkMacSystemFont, -apple-system, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+    background-color:rgb(15, 23, 42);
+color: antiquewhite;
+}
+h3 {
+    text-align:right;
+}
+header{ 
+    display:flex;
+    justify-content: space-between;
+}
+h4{
+    color: rgb(148 163 184)
+}
+
+ 
+ol{
+    color: rgb(56 189 248)
+}
+h3{
+    color:rgb(56 189 248)
+}
+
